@@ -21,15 +21,6 @@ public class ReassigningValues {
         System.out.println(second);
         System.out.println(third);
 
-        1
-        10
-        100
-        15
-        6
-        4
-        1
-        10
-        100
 
 
     }
